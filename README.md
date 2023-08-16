@@ -34,7 +34,7 @@
 |                             |                                                             |
 |                             |                                                             |
 
-## Spring 배우기
+## Spring 배우기 && Kubernetes 배우기
 > 기간: 2023.08.16 ~ 2023.09.27
 
 | 단계                        | 리포지토리 링크                                                                          |
@@ -45,5 +45,29 @@
 |  SPRING MVC CONFIG    |             |     
 |  SPRING AUTH    |             |     
 |  SPRING CONFIGURATION    |             |     
+|  SPRING CONFIGURATION    |             |     
+|  SPRING CONFIGURATION    |             |     
+|  SPRING CONFIGURATION    |             |     
+|  SPRING CONFIGURATION    |             |     
+|  SPRING CONFIGURATION    |             |     
+|  SPRING CONFIGURATION    |             |     
+|  SPRING CONFIGURATION    |             |     
+|  SPRING CONFIGURATION    |             |     
+|  SPRING CONFIGURATION    |             |     
+
+## Spring JPA 배우기
+> 기간: 2023.10.16 ~ 2023.10.27
+
+| 단계                        | 리포지토리 링크                                                                          |
+| --------------------------- |  --------------------------------------------------------------------------- |
+|  SPRING MVC                   |   |                                                                          |
+|  SPRING JDBC                 |   |                                                                            |
+|  SPRING CORE                  |              |                                                                |
+|  SPRING MVC CONFIG    |             |     
+|  SPRING AUTH    |             |     
+|  SPRING CONFIGURATION    |             |     
+
+
+
 
 
